@@ -1,8 +1,8 @@
 # Summary
 
 * [git](README.md)
-    * [log](/git/log.md)
-    * [branch](/git/barnch.md)
+    * [日志](/git/日志.md)
+    * [分支](/git/分支.md)
 * [vue](README.md)
 * [.net](README.md)
 * [nodejs](README.md)
